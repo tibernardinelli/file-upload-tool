@@ -1,3 +1,32 @@
+# File Upload Tool
+
+## What is this? 
+Have you ever been in need to send or receive files from customers in a secure way and couldn't find a simple way to do it? So, if you said yes, this tool is exactly for you. 
+
+## How we do? 
+
+There is a CLI where you will be able to spin up a Web Site on your account and associate pre-signed url's for upload and download with cognito users. 
+
+## Why a CLI?
+
+We want the ability to spin up a different stack in a different account for each Account Manager/SA that wants to exchange files, this is not meant to be an official tool! Use it as you please.
+
+## Using a pre-signed url, it will expire right? 
+
+Yes, this is another safety tool! When you set up a user we will associate it with a Pre signed URL and he will be able to download/upload files for the next24 hours, after that the link will be expired as well as the user on your pool. 
+
+## How does it work?
+
+All the AM/SA interaction will be directly in the CLI, set up the environment, send files to user, receive files from user. 
+
+
+
+
+
+# Backend
+
+# Frontend
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

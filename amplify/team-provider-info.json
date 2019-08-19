@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "file-upload-tool-dev-20190817154307-authRole",
+            "UnauthRoleArn": "arn:aws:iam::693409844692:role/file-upload-tool-dev-20190817154307-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::693409844692:role/file-upload-tool-dev-20190817154307-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "file-upload-tool-dev-20190817154307-deployment",
+            "UnauthRoleName": "file-upload-tool-dev-20190817154307-unauthRole",
+            "StackName": "file-upload-tool-dev-20190817154307",
+            "StackId": "arn:aws:cloudformation:us-east-1:693409844692:stack/file-upload-tool-dev-20190817154307/654e9fb0-c140-11e9-b9a5-0e27f3a268d6"
+        }
+    }
+}
