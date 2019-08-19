@@ -18,8 +18,11 @@ Yes, this is another safety tool! When you set up a user we will associate it wi
 ## How does it work?
 
 All the AM/SA interaction will be directly in the CLI, set up the environment, send files to user, receive files from user. 
+It's mandatory to have user credentials setted (preferencialy temporary) in order for the CLI work.
 
+![Architecture Diagram](public/file-upload-tool-architecture.png?raw=true "Architecture Diagram")
 
+# To be completed!
 
 
 
